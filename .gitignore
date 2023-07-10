@@ -1,0 +1,66 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+obj/
+UnityGenerated/
+AssetBundle/
+Library/
+AssetBundle/
+Logs/
+
+# JetBrains
+.idea
+Assets/Plugins/Editor/JetBrains/*
+Assets/Plugins/Editor/JetBrains.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# vs 工程自动生成文件
+.vs
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+
+#build
+build/*
+Build/*
+
+#vscode
+.vscode
+.vsconfig
+
+# StreamingAssets
+/Assets/StreamingAssets/*
+/Assets/StreamingAssets.meta
+
+# hybridclr
+HybridCLRData/*
+!HybridCLRData/hybridclr_repo/
+!HybridCLRData/il2cpp_plus_repo/
+!HybridCLRData/iOSBuild/
+!HybridCLRData/LocalIl2CppData-WindowsEditor/
+!HybridCLRData/LocalIl2CppData-OSXEditor/
+HybridCLRData/iOSBuild/build/
